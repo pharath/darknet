@@ -64,3 +64,4 @@ uselib
 uselib_track
 darknet
 vcpkg/
+*.conv.29
